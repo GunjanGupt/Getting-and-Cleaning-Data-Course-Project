@@ -175,4 +175,4 @@ The source variables consist of the following parts:
 
 To compute the mean values for the features, the input data was grouped by column 1 and column 2. Afterwards the mean for each feature variable per group was computed.
 
-The activity ids were converted to readable activity descriptions by loading the activity descriptions from the file "activity_labels.txt" provieded with the input data.
+The activity ids were converted to readable activity descriptions by loading the activity descriptions from the file "activity_labels.txt" provieded with the input data..
