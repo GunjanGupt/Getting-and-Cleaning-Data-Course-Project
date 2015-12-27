@@ -7,14 +7,14 @@ This document describes the variables of the output data set and summaries used 
 The [first section](#input-data) summarizes relevant parts from the input data codebook. The [next section](#output-variables) describes the output variables with their units. The [last section](#transformations) describes the transformations used to calculate the output values.
 
 ### ---------------------------------------------------------------------------------------------------------------
-### ---------------------------------------------- Input Data -------------------------------------------------
+### ---------------------------------------------- Input Data ------------------------------------------------
 ### ---------------------------------------------------------------------------------------------------------------
 
 The original data set contains a codebook that describes the data set. In this section those parts of the orginal codebook have been I repeated which are relevant to generate the tidy data set.
 
 The input data contains data recorded from the accelerometer and the gyroscope of a smartphone while the person who carried the smartphone was performing one of the following six activities: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
 
-## ------------------------------------------------- Input Data Variables -------------------------------------
+## ---------------------------------- Input Data Variables ------------------------------
 
 From the raw measurements, several other values were derived. The input dataset contains data for the following variables:
 
