@@ -70,5 +70,3 @@ The run_analysis.R script outputs data to a tidy data text file named "tidydata.
 ## The codebook. 
 
 The codebook is contained in the file CodeBook.md. It describes the variables of the output data set and summaries used to calculate the values, along with units and any other relevant information.
-
-The [first section](#input-data) summarizes relevant parts from the input data codebook. The [next section](#output-variables) describes the output variables with their units. The [last section](#transformations) describes the transformations used to calculate the output values.
