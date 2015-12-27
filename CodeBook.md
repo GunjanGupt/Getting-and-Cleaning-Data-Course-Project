@@ -7,7 +7,7 @@ This document describes the variables of the output data set and summaries used 
 The [first section](#input-data) summarizes relevant parts from the input data codebook. The [next section](#output-variables) describes the output variables with their units. The [last section](#transformations) describes the transformations used to calculate the output values.
 
 ### ---------------------------------------------------------------------------------------------------------------
-###---------------------------------------------------- Input Data ------------------------------------------------
+### --------------------------------------------- Input Data ------------------------------------------------
 ### ---------------------------------------------------------------------------------------------------------------
 
 The original data set contains a codebook that describes the data set. In this section those parts of the orginal codebook have been I repeated which are relevant to generate the tidy data set.
