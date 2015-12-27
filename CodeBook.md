@@ -68,7 +68,7 @@ Additionally, the input contains the file activity_labels.txt which links the cl
 The input data set also contains the raw measurement data that was used to compute the features. This raw data is not beeing used in this project.
 
 
-### ---------------------------------------------------- Output Variables -----------------------------------------
+### ----------------------------------------------- Output Variables --------------------------------------
 
 The following table shows a table with all variables in the output file. The first column in the table shows the column number of the variable, the second column shows the variable name and column three shows the source variable used to compute the value of the variable.
 
@@ -174,7 +174,7 @@ The source variables consist of the following parts:
 * Some input variable names contain the string 'BodyBody'. They have been transformed to the string 'Body'.
 
 
-### ----------------------------------------------------- Transformations -----------------------------------------
+### ---------------------------------------------- Transformations --------------------------------------
 
 * Training and test data sets have been merged to create one data set by
    + Concatenating data tables by rows
