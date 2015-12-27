@@ -14,7 +14,7 @@ The input data contains data recorded from the accelerometer and the gyroscope o
 
 ### Input Data Variables ###
 
-From the raw measurements, several other values were derived. The input dataset contains data for the following variables:
+From the raw measurements, several other values were derived. The input dataset contains data for the following variables: 
 
 |      Variable     |     source    |   domain  |
 | ----------------- | ------------- | --------- |
